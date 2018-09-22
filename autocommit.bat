@@ -1,4 +1,9 @@
-git add *.cpp *.h *.sln *.vcxproj *.user *.filters
+git add *.cpp 
+git add *.h 
+git add *.sln 
+git add *.vcxproj 
+git add *.user 
+git add *.filters
 git commit -am "Some comment"
 git status
 git log
