@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Laab5.cpp
+c:\users\олег\source\repos\laab5\laab5\laab5.cpp(47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\олег\source\repos\laab5\laab5\laab5.cpp(53): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\олег\source\repos\laab5\laab5\laab5.cpp(91): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Laab5.vcxproj -> C:\Users\Олег\source\repos\Laab5\x64\Debug\Laab5.exe
