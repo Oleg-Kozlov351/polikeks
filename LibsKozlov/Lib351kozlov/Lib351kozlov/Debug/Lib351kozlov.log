@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  Lib351kozlov.cpp
+c:\users\admin\source\repos\lib351kozlov\lib351kozlov\lib351kozlov.cpp(23): error C4716: func: должна возвращать значение
